@@ -10,7 +10,11 @@ Read the full tutorial on my site:
 
 ## How to use
 
+Feel free to fork this repo and use it for your own apps.
+
 All the commands can be run with `make` using the `Makefile` inside `apps`.
+
+> Note: don't forget to change the `GITHUB_USER` in the [Makefile](apps/Makefile).
 
 ### Deploy a Flutter web project to GitHub
 
