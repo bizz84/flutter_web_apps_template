@@ -1,6 +1,12 @@
-# Flutter Web + GitHub Pages templates
+# Flutter Web + GitHub Pages template
 
 A simple monorepo to manage the deployment of multiple Flutter web apps with GitHub Pages.
+
+## Tutorial
+
+Read the full tutorial on my site:
+
+- [How to Publish your Flutter Web Apps on GitHub Pages for Free](https://codewithandrea.com/articles/flutter-web-github-pages/)
 
 ## How to use
 
